@@ -1,0 +1,27 @@
+Why framework came in existence ?
+
+Earlier the html css, and jabascript was rendered at server/ back end and it was send through the browser on which using 
+jquery we used to render the pages. This is called as server-side rendering
+
+with the framework like react it gave rise to single page application
+Client side Rendering. All the HTML CSS and JS started working on browser.
+Data comes from server via API. Submit the pages without page reloading. feels like local system.
+
+
+Problems with Vanilla Javascript
+
+What is front end application does 
+
+Setting up Environment
+
+- check what is node js version
+- Install extension ESLint, Prettier - Code formatter
+- One Monokai Theme, Material Icon Theme  Extension
+
+Setting changes in vs code
+- auto save 
+- Default Formatter change to Prettier
+- format on save 
+- Eslint :Run change it to OnSave
+
+to write an html in vs code we can just do !+Enter
